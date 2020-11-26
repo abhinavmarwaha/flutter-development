@@ -7,11 +7,14 @@
 * common widgets -> 
 * modularity
 * structure
+* 
+
+https://medium.com/super-declarative/understanding-state-management-and-why-you-never-will-dd84b624d0e
 
 backend
 
 * models in firebase - serialization, deserilastion
-* 
+* security
 
 Misc
 
