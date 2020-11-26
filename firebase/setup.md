@@ -38,3 +38,11 @@ in adnroid.defaultconfig
     targetSdkVersion 29
     multiDexEnabled true
 ```
+
+
+sha512
+
+for phone etc
+
+multidex
+

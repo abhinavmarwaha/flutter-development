@@ -1,3 +1,24 @@
+# Roadmap
+
+* widgets - stateless and stateful
+* where state - pragmatic aproach -> https://www.youtube.com/watch?v=d_m5csmrf7I
+* provider
+* layouts
+* common widgets -> 
+* modularity
+* structure
+
+backend
+
+* models in firebase - serialization, deserilastion
+* 
+
+Misc
+
+* Singleton :: consturcters
+* 
+
+
 # flutter-cookbook
 
 * themeing
