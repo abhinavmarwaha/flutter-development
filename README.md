@@ -1,3 +1,16 @@
+Here I meditate about flutter and firebase.
+
+# Why?
+
+* Place to put things I need.
+* Learnings -> Don't want to do same mistake twice
+
+# Disclaimer
+
+* Always Refer each package's own repo.
+* this is my way of doing things not industry's (hence may not be perfect)
+* I update these whenever I find better ways to do things
+
 # Roadmap
 
 * widgets - stateless and stateful
