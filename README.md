@@ -11,6 +11,12 @@ Here I meditate about flutter and firebase.
 * this is my way of doing things not industry's (hence may not be perfect)
 * I update these whenever I find better ways to do things
 
+# I will not add things which are there already 
+
+* https://medium.com/ionicfirebaseapp/flutter-cookbook-24b1f7b11e50
+* https://github.com/devsmranjan/flutter-cookbook
+* https://flutter.dev/docs/cookbook
+
 # Roadmap
 
 * widgets - stateless and stateful
@@ -43,12 +49,10 @@ Misc
 * layouts
 * tricks
 
-
-
-
 # Links :
 
 https://stackoverflow.com/questions/56580988/flutter-state-is-lost-on-hot-reload-when-using-provider
 
 
 https://github.com/rrousselGit/provider/issues/347
+
