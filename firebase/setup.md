@@ -39,10 +39,25 @@ in adnroid.defaultconfig
     multiDexEnabled true
 ```
 
+in main.dart
+
+```
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(MyApp());
+}
+```
+
+android/app/google-services.json
 
 sha512
+
+./gradlew signingReport
 
 for phone etc
 
 multidex
+
+# Crashlytics
 
