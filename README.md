@@ -1,4 +1,4 @@
-Here I meditate about flutter, firebase and general app developpment.
+Here I meditate about flutter, firebase and general app development.
 
 # Why?
 
