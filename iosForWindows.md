@@ -1,3 +1,0 @@
-Rent
-codemagic
-friend

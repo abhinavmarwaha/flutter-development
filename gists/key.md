@@ -1,6 +1,3 @@
-icon
-name
-dependcies
 # key
 
 put key in android/app/key.jks
