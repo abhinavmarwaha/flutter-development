@@ -1,17 +1,6 @@
-Here I meditate about flutter, firebase and general app development.
+This is not a cookbook.
 
-# Why?
-
-* Place to put things I need.
-* Learnings -> Don't want to do same mistake twice
-
-# Disclaimer
-
-* Always Refer each package's own repo.
-* this is my way of doing things and may not be best way to do things
-* I update these whenever I find better ways to do things
-
-# Similar content
+# Cookbooks
 
 * https://medium.com/ionicfirebaseapp/flutter-cookbook-24b1f7b11e50
 * https://github.com/devsmranjan/flutter-cookbook
@@ -64,13 +53,10 @@ Write down some key points of the app idea you have
 
 Questions to ask ->
 
-Will I use it everday?
-
-Why is it needed ?
-
-What it is?
-
-How the app is resolving the pain point?
+* Will I use it everday?
+* Why is it needed ?
+* What it is?
+* How the app is resolving the pain point?
 
 Then make exact UI/UX in figma. (If possible share these and ask people if they will use it)
 
@@ -78,11 +64,9 @@ Now have version 0.1 -> minimum features that you can build quickly
 
 Then start making the app
 
-Make folder structures, architecture and then code whatever is needed
-
-Build .. Iterate build ( when 1 feature is there and you are satisfied)
-
-Take feedback ASAP.
+* Make folder structures, architecture and then code whatever is needed
+* Build .. Iterate build ( when 1 feature is there and you are satisfied)
+* Take feedback ASAP.
 
 Iterate
 
@@ -183,10 +167,10 @@ if Your app is internet-driven entirely you can have a default screen of not con
 
 # Release Checklist
 
-[] icon
-[] name
-[] dependcies
-[] key
+* icon
+* name
+* dependcies
+* key
 
 # Some code gists
 
