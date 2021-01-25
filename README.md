@@ -15,17 +15,18 @@ This is not a cookbook.
 * provider package
 * layouts
 * common widgets 
+* futures and async tasks
 * modularity
 * structure
 
 backend
 
-* models in firebase - serialization, deserilastion
+* models in [firebase]() - serialization, deserilastion
 * security
 
 Misc
 
-* Singleton :: consturcters
+* Singleton :: constructers
 
 ## themeing
 
@@ -81,6 +82,15 @@ Release repeat.
 * Blank data
 * Internet Connectivity Issues
 * Admin stuff (CRUD)
+
+# CRUD
+
+It is important to add functionality of CRUD of data in yur app. Sometimes 2 functionalities can do 1 thing and vice versa like updating can be done through delete and create.
+
+* Create
+* Read
+* Update
+* Delete
 
 # Project structure
 
