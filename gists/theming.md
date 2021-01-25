@@ -1,3 +1,5 @@
+ 
+ ```
  MaterialApp(theme: _buildTheme(context),
         
   ThemeData _buildTheme(context) {
@@ -46,7 +48,7 @@
           bodyColor: color,
         );
   }
-
+```
 
   black , white
 
