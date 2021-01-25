@@ -187,6 +187,7 @@ if Your app is internet-driven entirely you can have a default screen of not con
 * [internet_connectivity](/gists/internet_connectivity_check.md)
 * [key](/gists/key.md)
 * [theming](gists/theming.md)
+* [Adding to F-Droid](fdroid.md)
 
 # Awesome Packages for common things
 
