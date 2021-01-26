@@ -73,6 +73,10 @@ Iterate
 
 Release repeat.
 
+# Anti-Features
+
+You should also define what the app shouldn't have.
+
 # States to consider
 
 * Unauthenticated
